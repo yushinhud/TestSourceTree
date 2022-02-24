@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         print("gitTest")
+        print("gitTest")
     }
 
     @IBAction func btnSend(_ sender: UIButton) {
