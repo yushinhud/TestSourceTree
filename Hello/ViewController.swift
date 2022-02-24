@@ -17,7 +17,8 @@ class ViewController: UIViewController {
         
         print("gitTest")
         print("gitTest")
-        print("branch1")
+        print("gitTest")
+        print("branchTest")
     }
 
     
