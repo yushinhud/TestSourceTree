@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         print("branch1")
     }
 
+    
     @IBAction func btnSend(_ sender: UIButton) {
         lblHello.text = "Hello, " + txtName.text!
         myLogPrint("=== didFinishLaunchingWithOptions ===")
@@ -33,5 +34,9 @@ class ViewController: UIViewController {
         
     }
     
+    func BranchTestMerge()
+    {
+        print("branchTest")
+    }
 }
 
