@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         
         print("gitTest")
         print("gitTest")
+        print("branch1")
     }
 
     @IBAction func btnSend(_ sender: UIButton) {
