@@ -39,5 +39,9 @@ class ViewController: UIViewController {
     {
         print("branchTest") //added by yushin for test
     }
+    func BranchTestMerge2()
+    {
+        print("branchTest2") //added by yushin for test
+    }
 }
 
